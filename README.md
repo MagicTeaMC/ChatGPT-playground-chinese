@@ -1,4 +1,4 @@
-# ChatGPT-playground-chinese
+# ChatGPT 中文使用(虐待)指南
 本文教你如何一步一步虐待 ChatGPT  
 ## 先來點輕鬆的吧
 問題：🏒🏑🥅🥋🤼🧂上列符號意思
